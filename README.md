@@ -7,7 +7,7 @@ An interactive Streamlit app that helps users practice spelling by uploading a c
 ## ✨ Features
 
 - 📁 Upload your own word list (CSV format)
-- 🔊 Hear each word using text-to-speech (gTTS)
+- 🔊 Hear each word using text-to-speech (macOS `say` command)
 - 👁️ Click to reveal spelling
 - ⬅️➡️ Navigate between words with buttons or arrow keys
 - 📊 Visual progress indicator
@@ -18,35 +18,37 @@ An interactive Streamlit app that helps users practice spelling by uploading a c
 ## 📂 How to Use
 
 1. Launch the app locally or in the cloud
-2. Upload a CSV file with one word per line (first column only is used). A sample spellingbee.csv is provided for downloading.
+2. Upload a CSV file with one word per line (first column only is used)
 3. Click **Show Spelling** to reveal the word
-4. Use **Previous**, **Next** to navigate
+4. Use **Previous**, **Next**, or keyboard arrow keys to navigate
 5. The word is auto-pronounced when shown or navigated
-
----
-
-## 🔧 Tech Stack
-
-- [Streamlit](https://streamlit.io/)
-- [gTTS (Google Text-to-Speech)](https://pypi.org/project/gTTS/)
-- Python + Pandas
 
 ---
 
 ## 🛠 Local Installation
 
-### 1. Clone the Repo
+#### 1. Clone the Repo
 
 ```bash
 git clone https://github.com/farmurey/spelling-bee-app.git
 cd spelling-bee-app
 
-
-### 2. Install Requirements
+2. Install Requirements
 pip install -r requirements.txt
 
-### 3. Run the App
+3. Run the App
 streamlit run app.py
 
+📦 Requirements
+Python 3.8+
 
+macOS or Linux (for os.system("say") to work)
 
+Chrome or modern browser for Streamlit app
+
+🧠 Future Improvements
+Score tracking or timed quiz mode
+
+Word difficulty levels
+
+Support for voice input or spelling validation
