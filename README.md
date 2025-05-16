@@ -41,10 +41,12 @@ An interactive Streamlit app that helps users practice spelling by uploading a c
 git clone https://github.com/farmurey/spelling-bee-app.git
 cd spelling-bee-app
 
-**2. Install Requirements**
+
+### 2. Install Requirements
 pip install -r requirements.txt
 
-**3. Run the App**
+### 3. Run the App
 streamlit run app.py
+
 
 
