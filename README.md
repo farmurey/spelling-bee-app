@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-📦 Requirements
+## 📦 Requirements
 
 Python 3.8+
 
@@ -52,7 +52,7 @@ macOS or Linux (for os.system("say") to work)
 
 Chrome or modern browser for Streamlit app
 
-🧠 Future Improvements
+## 🧠 Future Improvements
 
 Score tracking or timed quiz mode
 
