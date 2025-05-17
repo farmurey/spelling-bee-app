@@ -32,18 +32,18 @@ An interactive Streamlit app that helps users practice spelling by uploading a c
 ```bash
 git clone https://github.com/farmurey/spelling-bee-app.git
 cd spelling-bee-app
-
+```
 ### 2. Install Requirements
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### 3. Run the App
 
 ```bash
 streamlit run app.py
-
+```
 📦 Requirements
 Python 3.8+
 
