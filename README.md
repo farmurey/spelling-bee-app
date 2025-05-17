@@ -46,14 +46,10 @@ streamlit run app.py
 ```
 📦 Requirements
 Python 3.8+
-
 macOS or Linux (for os.system("say") to work)
-
 Chrome or modern browser for Streamlit app
 
 🧠 Future Improvements
 Score tracking or timed quiz mode
-
 Word difficulty levels
-
 Support for voice input or spelling validation
