@@ -1,12 +1,11 @@
-## 💡 Why I Built This
-
-As a parent, I wanted to create a tool that would let my child practice spelling without constant supervision. This app gives them a fun, interactive way to hear and spell words at their own pace.
-
 # 🐝 Spelling Bee Practice App
 
 An interactive Streamlit app that helps users practice spelling by uploading a custom word list. Built with text-to-speech and visual progress tracking for a smooth spelling experience.
 
 ---
+## 💡 Why I Built This
+
+As a parent, I wanted to create a tool that would let my child practice spelling without constant supervision. This app gives them a fun, interactive way to hear and spell words at their own pace.
 
 ## ✨ Features
 
