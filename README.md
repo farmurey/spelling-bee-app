@@ -5,7 +5,7 @@ An interactive Streamlit app that helps users practice spelling by uploading a c
 ---
 ## 💡 Why I Built This
 
-As a parent, I wanted to create a tool that would let my child practice spelling without constant supervision. This app gives them a fun, interactive way to hear and spell words at their own pace.
+As a parent and a non-native English speaker, I often found it challenging to confidently pronounce certain words while helping my child with spelling. I built this app to give my child a fun, independent way to practice spelling with accurate, AI-generated pronunciation and an interactive interface they can use at their own pace.
 
 ## ✨ Features
 
